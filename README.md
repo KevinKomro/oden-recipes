@@ -5,3 +5,4 @@ Practice HTML Fundamentals learned via The Odin Project.
 2. Incorporated headings, paragraphs, links and images
 3. Ordered and Unordered lists
 4. Utilize Git and Github to store and host a copy of this project
+5. Incorporate basic CSS

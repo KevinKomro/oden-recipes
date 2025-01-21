@@ -1,0 +1,45 @@
+/* font-family applies to entire site */
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* centered and appropriately-sized images */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+/* links will be darkred */
+a {
+    color:darkred;
+    text-align: center;
+    display:block;
+}
+
+/*                     */
+/* playing with colors */
+/*                     */
+
+h1 {
+    background-color: aquamarine;
+    color:brown
+}
+
+h2 {
+    background-color: #7fff00;
+    color:darkslateblue
+}
+
+h3 {
+    background-color:magenta;
+    color:#80ff00
+}
+
