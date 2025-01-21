@@ -1,6 +1,6 @@
 /* font-family applies to entire site */
 * {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 /* centered and appropriately-sized images */
@@ -19,9 +19,9 @@ h3 {
 
 /* links will be darkred */
 a {
-    color:darkred;
+    color: darkred;
     text-align: center;
-    display:block;
+    display: block;
 }
 
 /*                     */
@@ -30,16 +30,31 @@ a {
 
 h1 {
     background-color: aquamarine;
-    color:brown
+    color: brown;
+    border: 3px solid;
+    border-color:indianred;
 }
 
 h2 {
     background-color: #7fff00;
-    color:darkslateblue
+    color: darkslateblue
 }
 
 h3 {
-    background-color:magenta;
-    color:#80ff00
+    background-color: magenta;
+    color: #80ff00
 }
 
+.home-body {
+    background-color: bisque;
+}
+
+.home-link {
+    background-color: #fbff00;
+    width: 200px;
+    margin: 5px auto;
+    padding: 3px;
+    border: 3px solid;
+    border-color:indianred
+
+}
